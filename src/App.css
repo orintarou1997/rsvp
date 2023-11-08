@@ -13,6 +13,10 @@
   }
 }
 
+.link{
+  text-decoration: underline;
+  color: white;
+}
 .flyer {
   width:25%;
 }

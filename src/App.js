@@ -7,10 +7,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div>
-          <img class="flyer" src={flyer}/>
+          <img className="flyer" src={flyer}/>
 
           <h1>
-            <a href="https://secure.inspirave.com/">RSVP</a>
+            <a className="link" href="https://secure.inspirave.com/">RSVP</a>
           </h1>        
         </div>
       </header>
