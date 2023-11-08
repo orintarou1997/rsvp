@@ -12,7 +12,7 @@ function App() {
         <div>
           <img className="flyer" src={flyer}/>
           <h1>
-            <a className="link" href="https://secure.inspirave.com/id=36#toregister">RSVP</a>
+            <a className="link" href="https://secure.inspirave.com/id=15407#toregister">RSVP</a>
           </h1>        
         </div>
       </header>
