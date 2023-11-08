@@ -8,7 +8,10 @@ function App() {
       <header className="App-header">
         <div>
           <img class="flyer" src={flyer}/>
-          <h1>RSVP</h1>
+
+          <h1>
+            <a href="https://secure.inspirave.com/">RSVP</a>
+          </h1>        
         </div>
       </header>
     </div>
