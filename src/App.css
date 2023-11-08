@@ -1,5 +1,6 @@
 body{
   background-image: url("./BG.png");
+  background-color: #cccccc;
 }
 .App {
   text-align: center;
@@ -27,7 +28,6 @@ body{
   width:25%;
 }
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
