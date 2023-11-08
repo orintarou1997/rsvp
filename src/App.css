@@ -15,9 +15,9 @@
 
 .link{
   font-weight:200;
-  text-decoration: none;
   color: white;
   font-family: 'Raleway', sans-serif;
+  text-decoration-thickness: 1px;
 
 }
 .flyer {
